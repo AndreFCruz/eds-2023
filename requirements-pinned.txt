@@ -1,0 +1,14 @@
+numpy==1.25.2
+pandas==2.0.3
+jupyter_core==5.3.1
+jupyter
+lightgbm==4.0.0
+scikit-learn==1.2.2
+fairlearn==0.9.0
+error-parity==0.2.0
+hyperparameter-tuning==0.2.8
+cloudpickle==2.2.1
+seaborn==0.12.2
+matplotlib==3.7.2
+tqdm==4.66.1
+folktables==0.0.12

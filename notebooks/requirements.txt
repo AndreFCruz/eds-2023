@@ -1,7 +1,0 @@
-numpy
-pandas
-jupyter
-folktables
-cloudpickle
-error-parity~=0.2.0
-hyperparameter-tuning~=0.2.4

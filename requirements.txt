@@ -1,0 +1,13 @@
+numpy
+pandas
+jupyter
+lightgbm        # can easily be substituted by sklearn's GBM
+scikit-learn~=1.2.2
+fairlearn
+error-parity>=0.2.0
+hyperparameter-tuning>=0.2.8
+cloudpickle
+seaborn
+matplotlib
+tqdm
+folktables
